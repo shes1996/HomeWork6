@@ -3,10 +3,15 @@
 2. Создать множество ноутбуков.
 3. Написать метод, который будет запрашивать у пользователя критерий фильтрации и выведет ноутбуки, отвечающие фильтру.
 NoteBook notebook1 = new NoteBook
+
 NoteBook notebook2 = new NoteBook
+
 NoteBook notebook3 = new NoteBook
+
 NoteBook notebook4 = new NoteBook
+
 NoteBook notebook5 = new NoteBook
+
 
 Например: “Введите цифру, соответствующую необходимому критерию:
 1 - ОЗУ
